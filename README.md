@@ -1,11 +1,18 @@
 # stm32_hal_Ili_9341_dma
 DC-> pc7
+
 RST-> pc6
+
 SDI-> pb15
+
 CLK-> pb13
+
 CS-> pb12
+
 VCC-> 3.3V
+
 BL-> 3.3V
+
 GND-> GND
 
 
